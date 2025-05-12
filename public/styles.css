@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  margin: 0;
+  padding: 40px;
+}
+.form-container {
+  max-width: 400px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ccc;
+}
+input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 1rem;
+}
+button {
+  width: 100%;
+  padding: 10px;
+  background: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.error {
+  color: red;
+  margin-bottom: 1rem;
+}
+.secrets-page {
+  text-align: center;
+}
